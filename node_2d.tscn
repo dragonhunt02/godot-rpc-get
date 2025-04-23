@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://pem86csdlyc5"]
+
+[ext_resource type="Script" uid="uid://cxdy4whhqou7u" path="res://rpctable.gd" id="1_wtcfe"]
+
+[node name="Node2d" type="Node2D"]
+script = ExtResource("1_wtcfe")
