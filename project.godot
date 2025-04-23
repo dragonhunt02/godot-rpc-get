@@ -12,5 +12,5 @@ config_version=5
 
 config/name="rpc-table-class"
 run/main_scene="res://node_2d.tscn"
-config/features=PackedStringArray("4.5", "Double Precision")
+config/features=PackedStringArray("4.5")
 ; config/icon="res://icon.svg"
